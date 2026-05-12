@@ -1,6 +1,6 @@
 # Arthur Guilherme
 
-🚀 **Estudante Engenharia de Software | Python & MySQL | Desenvolvimento Back-End**  
+🚀 **Programador Python | SQL e Banco de Dados | Estudante de Engenharia de Software (UEPA) | Desenvolvimento Back-End**  
 🇧🇷 Brazil
 
 Tenho experiência com automações em **Python, manipulação de dados com SQL e Excel**, além de desenvolvimento de aplicações back-end focadas em produtividade e integração de processos.
