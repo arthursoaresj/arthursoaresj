@@ -13,8 +13,8 @@ Tenho experiência com automações em **Python, manipulação de dados com SQL 
   <a href="https://github.com/arthursoaresj">
     <img src="https://img.shields.io/badge/GitHub-arthursoaresj-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/arthur-guilherme-32b577353/">
-    <img src="https://img.shields.io/badge/LinkedIn-arthurguilherme-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](arthur)" />
+  <a href="https:https://www.linkedin.com/in/arthursoaresj/">
+    <img src="https://img.shields.io/badge/LinkedIn-arthursoaresj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](arthur)" />
   </a>
 </p>
 
