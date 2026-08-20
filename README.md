@@ -49,10 +49,3 @@ Tenho experiência com automações em **Python, manipulação de dados com SQL 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthursoaresj&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthursoaresj&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
